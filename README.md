@@ -96,6 +96,5 @@ The unity gain frequency (UGF) lies in the higher frequency range (approx. MHz r
 
    <img width="1175" height="596" alt="image" src="https://github.com/user-attachments/assets/e6b20a84-7403-4336-92d4-cc84fb2effc9" />
 
-
-
+Principles of Fraud Examination - Joseph T. Wells - Google Buku https://share.google/fZV3cZje6KPcKjFXk
 
